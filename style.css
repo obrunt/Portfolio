@@ -25,6 +25,18 @@
   color: white;
 }
 
-.aboutMe{
+/* Changes text colour to light purple */
+.lightPurple{
+  color:#cbaaf2;
+}
+
+/* Changes the colour and font of the header */
+.header{
+  font-family:ariel, sans-serif;
+  color:#f5a4e9;
+}
+
+/* Changes font */
+.text{
   font-family:ariel, sans-serif;
 }
