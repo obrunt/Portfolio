@@ -1,3 +1,4 @@
+/* Background for navigation bar */
 .topnav {
   background-color: #333;
   overflow: hidden;
@@ -44,6 +45,7 @@ img{
   width:100px;
 }
 
+/* Looks for hero image */
 .hero{
   border:4px solid #1b0101;
   background-image: linear-gradient(#c0c0c0,#808080);
@@ -54,10 +56,12 @@ img{
   padding: 10px;
 }
 
+/* Text on the right of the button */
 .bline {
   text-align: right;
 }
 
+/* Button looks */
 button {
   border-radius: 4px;
   border: 1px solid #BBBBBB;
@@ -69,6 +73,7 @@ button {
   display: inline-block;
 }
 
+/* Inside of button */
 .b:before {
   content: "Youtube";
   padding: 8px 10px;
